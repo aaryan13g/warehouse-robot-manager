@@ -10,10 +10,11 @@ Green - Empty racks<br>
 Purple - Starting position of the robot<br>
 ![download](https://user-images.githubusercontent.com/33923837/154176636-75cc50d6-6b6c-4bd2-acf2-9db99556f9c2.png)
 
-<br>
+
 **SAMPLE GRAPH**<br>
 ![download (1)](https://user-images.githubusercontent.com/33923837/154176662-6334ae91-6ca0-487f-8600-54435a4e2fd6.png)
 
-<br>
+
+
 **SAMPLE MINIMUM SPANNING TREE**<br>
 ![download (2)](https://user-images.githubusercontent.com/33923837/154176701-2f99b4a0-20cd-4d1d-8504-682df8acbea7.png)
